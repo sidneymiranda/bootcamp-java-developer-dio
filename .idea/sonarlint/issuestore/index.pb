@@ -11,14 +11,6 @@ s
 Csrc/fundamentosAritmeticosJava/desafio05/ConsumoMedioAutomovel.java,7\6\76a9c185fcc595174bf481f36c1b3a9bfaeb08f3
 I
 src/testes/ClassDate.java,5\9\599dc943617b47003751b1674aa10365717bc08f
-w
-Gsrc/ordenacao/filtros/Java/desafio01/OrdenandoNumerosParesEImpares.java,6\0\603d5cec04ff582f343a32cfa1c947aff5358e17
-m
-=src/ordenacao/filtros/Java/desafio03/UniformesFinalDeAno.java,5\3\53de5f08f2f85ffc16b4a21525ec1fce3b71908b
-o
-?src/ordenacao/filtros/Java/desafio02/ComprasNoSupermercado.java,5\f\5f897a7dbbd5d9c32432182868a501748f4bba5a
-c
-3src/ordenacao/filtros/Java/desafio04/FilaBanco.java,3\a\3ab200c91bf780602b05639f0ccf01b2b76f9139
 v
 Fsrc/solucaoDeProblemasComJava/desafio01/ContagemRepetidaDeNumeros.java,7\e\7e779e44c0e8ba85b9d3eb61a4edd40bc8daa657
 `
@@ -31,3 +23,11 @@ Lsrc/introducaoBuscaSubstituicaoEmJava/desafio02/EncontreAMaiorSubstring.java,8
 Rsrc/introducaoBuscaSubstituicaoEmJava/desafio01/OrdenacaoDePalavrasPorTamanho.java,d\9\d9a7d91966cd8450f4c41c30a27f9f7299e8a4e9
 ‚
 Rsrc/introducaoBuscaSubstituicaoEmJava/desafio04/PedraPapelTesouraLagartoSpock.java,7\f\7f959e0835c4e95d5418a607125ce4dd677ed1c3
+m
+=src/ordenacaoFiltrosJava/desafio02/ComprasNoSupermercado.java,4\7\470086b1b241e9560385657fa51011429d02159e
+k
+;src/ordenacaoFiltrosJava/desafio03/UniformesFinalDeAno.java,7\3\7316579954e5b055c06855221db7a4216078d09e
+a
+1src/ordenacaoFiltrosJava/desafio04/FilaBanco.java,8\6\86429b591bd39480cad05f4120e3d23107ea121f
+ƒ
+Ssrc/introducaoBuscaSubstituicaoEmJava/desafio03/ValidadorDeSenhasComRequisitos.java,1\3\1321051ed168acb1c365beda63a1933220dc17fa

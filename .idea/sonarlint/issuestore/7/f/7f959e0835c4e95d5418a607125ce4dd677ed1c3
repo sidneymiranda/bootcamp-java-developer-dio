@@ -1,23 +1,18 @@
 
-O
-java:S1481"-Remove this unused "vencedor" local variable.(ú²‚•úÿÿÿÿ8¤±ï½ƒ/
-f
-java:S4143"DVerify this is the key that was intended; it was already set before.(ø§Õûÿÿÿÿ8·ê¿ƒ/
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù†±Ğ
-a
-java:S4143"DVerify this is the key that was intended; it was already set before.(¾ Ô8·ê¿ƒ/
-`
-java:S4143"DVerify this is the key that was intended; it was already set before.(Ş±¹$8·ê¿ƒ/
-L
-java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ú¼É½ƒ/
 f
 java:S4143"DVerify this is the key that was intended; it was already set before.(Æãô˜ûÿÿÿÿ8·ê¿ƒ/
-a
-java:S4143"DVerify this is the key that was intended; it was already set before.(•ôÈ8·ê¿ƒ/
-[
-java:S1854">Remove this useless assignment to local variable "resultados".(şĞÜ§8Õ‹˜¿ƒ/
-Z	java:S106#"9Replace this use of System.out or System.err by a logger.(²ÄÓ«ıÿÿÿÿ8Õ‹˜¿ƒ/
-G
-java:S2116#"%Use "Arrays.toString(array)" instead.(²ÄÓ«ıÿÿÿÿ8Õ‹˜¿ƒ/
+Z	java:S106 "9Replace this use of System.out or System.err by a logger.(º”çôÿÿÿÿÿ8îüÙáƒ/
+Z	java:S106,"9Replace this use of System.out or System.err by a logger.(ú¡ôİøÿÿÿÿ8Ÿ–Ááƒ/
+]	java:S125."<This block of commented-out lines of code should be removed.(œ•€ìşÿÿÿÿ8ìğôßƒ/
+`
+java:S4143"DVerify this is the key that was intended; it was already set before.(Ş±¹$8·ê¿ƒ/
 L
-java:S1481"/Remove this unused "resultados" local variable.(şĞÜ§8Õ‹˜¿ƒ/
+java:S1128"*Remove this unused import 'java.util.Set'.(ö²„¤şÿÿÿÿ8Ú¼É½ƒ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¬…¹Ò8‘šÑáƒ/
+f
+java:S4143"DVerify this is the key that was intended; it was already set before.(ø§Õûÿÿÿÿ8·ê¿ƒ/
+a
+java:S4143"DVerify this is the key that was intended; it was already set before.(¾ Ô8·ê¿ƒ/
+a
+java:S4143"DVerify this is the key that was intended; it was already set before.(•ôÈ8·ê¿ƒ/
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù†±Ğ
