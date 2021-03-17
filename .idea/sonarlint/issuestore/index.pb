@@ -31,3 +31,5 @@ a
 1src/ordenacaoFiltrosJava/desafio04/FilaBanco.java,8\6\86429b591bd39480cad05f4120e3d23107ea121f
 ƒ
 Ssrc/introducaoBuscaSubstituicaoEmJava/desafio03/ValidadorDeSenhasComRequisitos.java,1\3\1321051ed168acb1c365beda63a1933220dc17fa
+€
+Psrc/introducaoBuscaSubstituicaoEmJava/desafio05/AtalhosParaOWebloggerBrasil.java,c\c\ccd185aef90fe82a7363d3fea2379a0c4eb1442a

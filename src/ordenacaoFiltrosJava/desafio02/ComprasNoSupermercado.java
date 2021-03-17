@@ -7,32 +7,26 @@ import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashSet;
 import java.util.LinkedHashSet;
+import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
+import java.util.Vector;
 import java.util.stream.Collectors;
 
 public class ComprasNoSupermercado {
+    public static void main(String[] args) {
+        Scanner ler = new Scanner(System.in);
+        int quantidade = ler.nextInt();
+        ler.nextLine(); //para limpar o Scanner
 
-    public static void main(String[] args) throws IOException {
-        Scanner scan = new Scanner(System.in);
-        int numListas = scan.nextInt();
+        List<String> lista = new Vector<>();
 
-        Set<String> lista = new HashSet();
-
-        if(numListas < 100) {
-            do{
-                Scanner sc = new Scanner(System.in);
-                var items = sc.nextLine();
-                lista.add(items);
-                --numListas;
-            } while(numListas > 0);
-
-            lista
-                .stream()
-                .sorted()
-                .forEach(System.out::print);
-
-            scan.close();
+        for (int i=0; i<quantidade; i++){
+            lista.add(ler.nextLine());
         }
+
+        lista.forEach(valor -> {
+            System.out.println(Arrays.stream(valor.split(" ")).collect(Collectors.toSet()).stream().sorted().collect(Collectors.joining(" ")));
+        }) ;
     }
 }
