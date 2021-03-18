@@ -1,3 +1,13 @@
 
+V
+java:S1128"4Remove this unused import 'java.util.LinkedHashMap'.(ò†ŠŞùÿÿÿÿ8Æ…™ôƒ/
+U
+java:S1128"8Remove this unused import 'java.util.function.Function'.(»³Í8¼Í³ôƒ/
+U	java:S106$"9Replace this use of System.out or System.err by a logger.(Ëºœ‡8«Éìóƒ/
+Q
+java:S3740"/Provide the parametrized type for this generic.(“”ıÿÿÿÿ8«í‡ôƒ/
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8×ÈŒõƒ/
 o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(íé§ü
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(¹¦…‡úÿÿÿÿ
+N
+java:S1128"1Remove this unused import 'java.util.Comparator'.(î¹ó¹8×ÈŒõƒ/

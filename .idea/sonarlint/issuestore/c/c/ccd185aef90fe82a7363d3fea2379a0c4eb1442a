@@ -1,13 +1,13 @@
 
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÎØç‡ûÿÿÿÿ8Ì„Âîƒ/
-L
-java:S5869"*Remove duplicates in this character class.(ÁÊ¤ûÿÿÿÿ8°èÄîƒ/
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÄ†É8Ì„Âîƒ/
 k
 java:S3008"NRename this field "MIN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸†½ß8Ì„Âîƒ/
-Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8éĞëñƒ/
 p
 java:S3008"NRename this field "MAX" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ä†Åºûÿÿÿÿ8Ì„Âîƒ/
 t
 java:S3008"RRename this field "PATTERN" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÁÊ¤ûÿÿÿÿ8Ì„Âîƒ/
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÄ†É8Ì„Âîƒ/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ƒÇãˆúÿÿÿÿ8éĞëñƒ/
+L
+java:S5869"*Remove duplicates in this character class.(ÁÊ¤ûÿÿÿÿ8°èÄîƒ/
 U	java:S106&"9Replace this use of System.out or System.err by a logger.(ˆ²æ8€ªëñƒ/
